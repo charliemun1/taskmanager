@@ -33,4 +33,4 @@ You can then mark them as completed or not, filter them and delete them.
 
 ## Bugs and Issues
 
-Have a bug or an issue with this site? [Open a new issue](https://github.com/project-moi/kenya_airways/issues) here on GitHub.
+Have a bug or an issue with this site? [Open a new issue](https://github.com/charliemun1/taskmanager/issues) here on GitHub.

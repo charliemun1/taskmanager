@@ -10,10 +10,16 @@ You can then mark them as completed or not, filter them and delete them.
 ## Preview
 <p float="left">
     <kbd>
+  <img src="https://github.com/charliemun1/taskmanager/blob/main/screenshots/add_task.png" />
+  </kbd>
+    <kbd>
   <img src="https://github.com/charliemun1/taskmanager/blob/main/screenshots/main_screen.png" />
   </kbd>
     <kbd>
-  <img src="https://github.com/charliemun1/taskmanager/blob/main/screenshots/add_task.png" />
+  <img src="https://github.com/charliemun1/taskmanager/blob/main/screenshots/filters.png" />
+  </kbd>
+    <kbd>
+  <img src="https://github.com/charliemun1/taskmanager/blob/main/screenshots/task_details.png" />
   </kbd>
 </p>
 
